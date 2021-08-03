@@ -1,28 +1,10 @@
-English | [中文](./README-CN.md)
-
-<h1>
 <img width="200" height="120" align=center alt="Swoole Logo" src="https://www.swoole.co.uk/images/swoole-logo.svg" />
-</h1>
-
-[![lib-swoole](https://github.com/swoole/swoole-src/workflows/lib-swoole/badge.svg)](https://github.com/swoole/swoole-src/actions?query=workflow%3Alib-swoole)
-[![ext-swoole](https://github.com/swoole/swoole-src/workflows/ext-swoole/badge.svg)](https://github.com/swoole/swoole-src/actions?query=workflow%3Aext-swoole)
-[![test-linux](https://github.com/swoole/swoole-src/workflows/test-linux/badge.svg)](https://github.com/swoole/swoole-src/actions?query=workflow%3Atest-linux)
-[![Coverity Scan Build Status](https://scan.coverity.com/projects/11654/badge.svg)](https://scan.coverity.com/projects/swoole-swoole-src)
-[![codecov](https://codecov.io/gh/swoole/swoole-src/branch/master/graph/badge.svg)](https://codecov.io/gh/swoole/swoole-src)
 
 **Swoole is an event-driven asynchronous & coroutine-based concurrency networking communication engine with high performance written in C++ for PHP.**
 
 ## ⚙️ Quick Start
 
-Run Swoole program by [Docker](https://github.com/swoole/docker-swoole)
-
-```bash
-docker run --rm phpswoole/swoole "php --ri swoole"
-```
-
-For details on how to use it, see: [How to Use This Image](https://github.com/swoole/docker-swoole#how-to-use-this-image).
-
-Or code and run the Swoole program on the official website of Swoole. [Coding Online](https://www.swoole.com/coding)
+[Quick installation for Ubuntu](https://onelinerhub.com/php-swoole/install)
 
 ## ✨ Event-based
 
